@@ -1,6 +1,6 @@
 # Churn Prediction Project
 
-This project focuses on building a machine learning model to predict customer churn using the **Telco Customer Churn** dataset. The workflow includes data acquisition, preprocessing using pipelines and transformers, exploratory profiling, model training with a neural network, and final evaluation of predictions.
+This project focuses on building a deep learning model to predict customer churn using the **Telco Customer Churn** dataset. The workflow includes data acquisition, preprocessing using pipelines and transformers, exploratory profiling, model training with a neural network, and final evaluation of predictions.
 
 ## Dataset
 
